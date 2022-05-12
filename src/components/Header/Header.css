@@ -3,8 +3,6 @@
 }
 
 .header__container {
-  max-width: 1180px;
-  margin: 0 auto;
   /* background: #f60; */
   display: flex;
   justify-content: space-between;
